@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @everythingin5mins
-- 👀 I’m interested in working on front end and backend 
-- 🌱 I’m currently learning cloud 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - https://twitter.com/ItTechTamil
+- 👋 Hi, I’m Sathish 
+- 👀 I’m interested in working on micro service based front end and backend applications
+- 🤖 I'm experienced in automation testing for Web application and Rest apis.
+- 🌱 I’m currently learning azure cloud 
+- 📫 How to reach me - https://twitter.com/ItTechTamil or ✉️ - ittechtamil@gmail.com
 
-<!---
-everythingin5mins/everythingin5mins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
